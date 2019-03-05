@@ -61,7 +61,7 @@ Just like that, you will iterate over the <strong>keys</strong> and <strong>valu
 
 ================================================================================================
 
-Alright, it is time of an exercise to see if you understand this topic! Okay, given what we have learnt so far, I need you to iterate this <strong>dictionary</strong>;
+Alright, it is time for an exercise to see if you understand this topic! Okay, given what we have learnt so far, I need you to iterate this <strong>dictionary</strong>;
 
     d = {"James": 18, "Lisa": 17, "Jane": 16, "Andy": 19, "Antonio": 20}
 
